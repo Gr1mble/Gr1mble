@@ -1,4 +1,4 @@
-Hi 👋 My name is Jacob
+Hello! My name is Jacob
 ======================
 
 Developer in progress
